@@ -40,5 +40,71 @@
         "description": "熟悉 CSS 定位、手刻圓餅圖、時間軸及長條圖",
         "img": "https://i.imgur.com/c1I8T3z.png",
         "link": "https://github.com/zzuhann/resume-cat"
+    },
+    {
+        "title": "貓狗大對決",
+        "description": "",
+        "img": "https://i.imgur.com/Ef7r9Og.jpg",
+        "link": ""
+    },
+    {
+        "title": "YouTube 封面: UNIQLO 專訪",
+        "description": "",
+        "img": "https://i.imgur.com/Ep0DJPC.png",
+        "link": ""
+    },
+    {
+        "title": "專欄封面：大學生必追資源整理",
+        "description": "",
+        "img": "https://i.imgur.com/WsLAM8w.png",
+        "link": ""
+    },
+    {
+        "title": "專欄封面：遠距工作怎麼找？",
+        "description": "",
+        "img": "https://i.imgur.com/jzTdnyl.png",
+        "link": ""
+    },
+    {
+        "title": "專欄封面：職涯 PODCAST 推薦",
+        "description": "",
+        "img": "https://i.imgur.com/bvoaFbz.jpg",
+        "link": ""
+    },
+    {
+        "title": "專欄封面：人物專訪",
+        "description": "",
+        "img": "https://i.imgur.com/xECUpR1.jpg",
+        "link": ""
+    },
+    {
+        "title": "專欄素材：FB 貼文尺寸",
+        "description": "",
+        "img": "https://i.imgur.com/c3XWNRS.png",
+        "link": ""
+    },
+    {
+        "title": "IG 貼文：人物專訪",
+        "description": "",
+        "img": "https://i.imgur.com/kM9RENi.jpg",
+        "link": ""
+    },
+    {
+        "title": "IG 貼文：2021 實習完全攻略",
+        "description": "",
+        "img": "https://i.imgur.com/AANKbro.png",
+        "link": ""
+    },
+    {
+        "title": "Meet Taipei poster: 台大創創中心",
+        "description": "",
+        "img": "https://i.imgur.com/d2oY9TD.jpg",
+        "link": ""
+    },
+    {
+        "title": "Business Proposal: Shopee Case Challenge",
+        "description": "",
+        "img": "https://i.imgur.com/Fi0bH0L.png",
+        "link": ""
     }
 ]
