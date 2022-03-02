@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Hahow 課程頁面實作",
+        "description": "透過 Vue.js 及 API 建置",
+        "img": "https://i.imgur.com/cjc2138.png",
+        "link": "https://github.com/zzuhann/vuejs-hahow"
+    },
+    {
+        "title": "可不可 KEBUKE 品牌介紹",
+        "description": "應用 Skrollr 視差滾動創造動畫感",
+        "img": "https://i.imgur.com/a2Mw70m.png",
+        "link": "https://github.com/zzuhann/kebuke-scroll"
+    },
+    {
+        "title": "Weather Box 新年主題",
+        "description": "使用 SVG 繪出圖案、Keyframes 建立動畫",
+        "img": "https://i.imgur.com/6sZDF5Q.png",
+        "link": "https://github.com/zzuhann/weather-box"
+    },
+    {
+        "title": "Boostrap 台中介紹",
+        "description": "透過 Bootstrap 建立 RWD 頁面",
+        "img": "https://i.imgur.com/4P3e3z5.png",
+        "link": "https://github.com/zzuhann/bootstrap-taichung"
+    },
+    {
+        "title": "Iphone 切換",
+        "description": "使用 Jquery 進行按鈕切換尺寸、聲音及頁面",
+        "img": "https://i.imgur.com/Yuh1Lo2.png",
+        "link": "https://github.com/zzuhann/iphone-js-project"
+    },
+    {
+        "title": "博客來頁面及模式切換",
+        "description": "使用 Vue.js 及 JSON 串接來創造各種不同頁面模式",
+        "img": "https://i.imgur.com/NG3pSiv.png",
+        "link": "https://github.com/zzuhann/vue-project-books"
+    },
+    {
+        "title": "履歷/為貓貓建立一份履歷",
+        "description": "熟悉 CSS 定位、手刻圓餅圖、時間軸及長條圖",
+        "img": "https://i.imgur.com/c1I8T3z.png",
+        "link": "https://github.com/zzuhann/resume-cat"
+    }
+]
